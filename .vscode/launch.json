@@ -7,7 +7,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "Launch via NPM",
+            "name": "Start Hexo Debug",
             "runtimeExecutable": "npm",
             "runtimeArgs": [
                 "run",
