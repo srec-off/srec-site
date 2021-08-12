@@ -146,7 +146,7 @@ article:
     licenses:
         内部许可:
             icon: fab fa-creative-commons-by
-            url: 'https://creativecommons.org/licenses/by/4.0/'
+            url: 'https://srec.vercel.app/global-docs/site/#%E7%89%88%E6%9D%83'
 # Search plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
