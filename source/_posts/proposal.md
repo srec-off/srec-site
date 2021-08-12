@@ -1,11 +1,10 @@
 ---
 title: 提案条例
 category: global-docs
-date: 2021-07-20 23:59:58
+date: 2021-07-20 23:59:57
 tags: 参考文档
 ---
-
-> 根据[组织概述](https://srec.vercel.app/global-docs/main)规定的运行原则，制定本条例
+> 根据[组织概述](https://srec.vercel.app/global-docs/main)，制定本条例
 <!-- more -->
 
 关肃委内部成员有权向执行干部移交以下内容的提案：
