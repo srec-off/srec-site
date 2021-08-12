@@ -106,7 +106,7 @@ navbar:
     # Navigation menu items
     menu:
         主页: /
-        参考文档: /tags/参考文档/
+        参考文档: /global-docs/
         # Archives: /archives
         # Categories: /categories
         # Tags: /tags
