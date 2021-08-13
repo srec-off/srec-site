@@ -4,7 +4,6 @@ tags: 内部文档
 category: local-docs
 date: 2021-08-12 22:25:30
 ---
-
 > 根据[组织概述](https://srec.vercel.app/global-docs/main)，编写此事项
 <!-- more -->
 每位成员都可以向中心机构提交提案。中心机构可根据待解决提案数量和内容举行**全体会议**，对提案进行民主表决
